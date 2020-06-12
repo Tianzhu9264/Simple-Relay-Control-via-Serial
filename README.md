@@ -27,4 +27,3 @@ Documentation by Orwa
     b.	“python relay.py 0” turns the relay off
 2.	Note that if the hardware is not connected, an error message will be displayed.
 3.	Note that if the hardware is connected but being used by another program, an error message will be displayed
-
