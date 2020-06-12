@@ -12,7 +12,8 @@ Documentation by Orwa
 “pip install pyserial”
 ## Usage instructions (as a library)
 1. Launch “idle” on windows
-2. Type: “import os;print(os.getcwd())”![code](https://github.com/Tianzhu9264/Simple-Relay-Control-via-Serial/blob/master/code.png?raw=true)
+2. Type: “import os;print(os.getcwd())”
+![code](https://github.com/Tianzhu9264/Simple-Relay-Control-via-Serial/blob/master/code.png?raw=true)
 <img src='https://github.com/Tianzhu9264/Simple-Relay-Control-via-Serial/blob/master/code.png?raw=true' align='left' style=' width:300px;height:100 px'/>
 3. Copy “relay.py” to subdirectory “Lib” within the folder above (displayed in idle in <font color=Blue>blue</font>)
 4. Now you can use the library using “import relay” then calling the following functions:
