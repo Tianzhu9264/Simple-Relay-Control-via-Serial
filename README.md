@@ -13,6 +13,7 @@ Documentation by Orwa
 ## Usage instructions (as a library)
 1. Launch “idle” on windows
 2. Type: “import os;print(os.getcwd())”
+
 ![code](https://github.com/Tianzhu9264/Simple-Relay-Control-via-Serial/blob/master/code.png?raw=true)
     
 3. Copy “relay.py” to subdirectory “Lib” within the folder above (displayed in idle in <font color=Blue>blue</font>)
